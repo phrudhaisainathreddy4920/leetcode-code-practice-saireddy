@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/1406-stone-game-iii) |
@@ -63,10 +64,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0001-two-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
