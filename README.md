@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/1872-stone-game-viii) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
