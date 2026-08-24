@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0486-predict-the-winner](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/1406-stone-game-iii) |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/phrudhaisainathreddy4920/leetcode-code-practice-saireddy/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
